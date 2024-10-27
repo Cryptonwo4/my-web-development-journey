@@ -1,4 +1,4 @@
-# My Web Development Journey
+# My Web Development Journeys
 
 This repository keeps track of my discoveries on my Javascript learning journey. It deliberately uses descriptive naming instead of technical jargon to help beginners with limited technical knowledge to easily understand the functionalities and actions they are trying to perform.
 
